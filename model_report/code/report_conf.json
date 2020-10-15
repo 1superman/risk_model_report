@@ -1,0 +1,36 @@
+
+
+{
+  "使用说明":["1. statistics_by_month表示按月份统计还是按季度统计，只能从(月份)和(季度)这两个选",
+			  "2. cum_bins是累积分布的箱子数量(建议20)，也可设大一点，后面阈值会根据这个来选的；",
+			  "3. advance_list需设置，reject_bad_rate表示拒绝客户的违约率,accept_bad_rate表示通过客户的违约率",
+			  "另外一定要确定在代码运行之前(标准模板.doc)已经在report里面"],		  
+  "client_id_name": "idpdlold84",
+  "client_numbr": "",
+  "batch":"",
+  "data_dir": "../data/",
+  "client_name": "",
+  "sense": "",
+  "owner": "zhangtong",
+  "algorithm": "xgb",
+  "model_version": "v1.0",
+  "statistics_by_month": "月份",
+  "cum_bins": 20,
+  "is_woe": "n",
+  "is_output_advice": "n",
+  "method": "score", 
+  "advice_list":{"reject_bad_rate":0.2, 
+				  "accept_bad_rate":0.1},
+  "score_single_insideReport": [
+    "p"
+  ],
+  "score_combine_diff_insideReport": [
+    [
+    ],
+    [
+
+    ]
+  ],
+  "score_outsideReport": "p",
+  "asc":1
+}
