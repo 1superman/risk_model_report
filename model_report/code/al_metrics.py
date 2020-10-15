@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 25 14:57:36 2019
 
-@author: chengjinkang
+@author: zhangtong
 """
 
 from sklearn.metrics import *
