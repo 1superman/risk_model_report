@@ -4,12 +4,14 @@
 <br>
 <br>
 a. 样本概况表。<br>
-
-![image](/images/all_KS.png)
 <br>
 b. 效果概况。<br>
 <br>
 c. ROC曲线。<br>
+![image2](/images/train%20ROC.png)
+![image](/images/test%20ROC.png)
+![image](/images/oot%20ROC.png)
+![image1](/images/all%20ROC.png)
 <br>
 d. KS曲线。<br>
 <br>
