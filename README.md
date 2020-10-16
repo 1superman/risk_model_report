@@ -4,7 +4,7 @@
 <br>
 <br>
 a. 样本概况表。<br>
-![image](https://github.com/1superman/model_report/main/images/test评分分布.png)
+![image](https://github.com/1superman/model_report/blob/main/images/all%E5%88%86%E7%AE%B1%E7%BB%9F%E8%AE%A1.png)
 <br>
 b. 效果概况。<br>
 <br>
