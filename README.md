@@ -1,11 +1,11 @@
 ## 模型开发报告
-![image](/images/all_KS.png)
+
 ### 报告内容主要包含以下几点<br>
 <br>
 <br>
 a. 样本概况表。<br>
 
-
+![image](/images/all_KS.png)
 <br>
 b. 效果概况。<br>
 <br>
