@@ -4,7 +4,7 @@
 <br>
 <br>
 a. 样本概况表。<br>
-![image](https://github.com/1superman/model_report/blob/main/images/test评分分布.png)
+![image](https://github.com/1superman/model_report/main/images/test评分分布.png)
 <br>
 b. 效果概况。<br>
 <br>
@@ -33,4 +33,4 @@ model_report/data/目录下存放切分文件：文件列包括：uid,triger_dat
 model_report/data/score目录下存放结果文件：文件列在切分文件的基础上多一列p,并将时间列名改为：repayment_date<br>
 配置完成后，执行"python model_report/code/Gen_Outside_Report_v3"<br>
 ### 注意事项<br>
-文件model_report/data/report/标准模板.docx不可删除<br># model_report
+文件model_report/data/report/标准模板.docx不可删除<br>
