@@ -1,1 +1,1 @@
-![avatar](/home/C:\Users\61495\Desktop\report_code\model_report\data\statis\graph\idpdlold86_p_external/all KS.png)
+![avatar](\home\Desktop\report_code\model_report\data\statis\graph\idpdlold86_p_external/all KS.png)
