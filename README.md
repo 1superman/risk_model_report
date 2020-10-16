@@ -4,6 +4,8 @@
 <br>
 <br>
 a. 样本概况表。<br>
+
+![image](/images/按月份统计的客户分布.png)
 <br>
 b. 效果概况。<br>
 <br>
