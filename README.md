@@ -8,7 +8,7 @@ a. 样本概况表。<br>
 b. 效果概况。<br>
 <br>
 c. ROC曲线。<br>
-![image](/images/all_KS.png)
+![Image text](/images/all_KS.png)
 
 <br>
 d. KS曲线。<br>
