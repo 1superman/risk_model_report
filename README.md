@@ -5,6 +5,7 @@
 <br>
 a. 样本概况表。<br>
 ![image](https://raw.githubusercontent.com/1superman/model_report/main/images/all_Lift.png)
+
 <br>
 b. 效果概况。<br>
 <br>
