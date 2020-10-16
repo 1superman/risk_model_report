@@ -4,7 +4,7 @@
 <br>
 <br>
 a. 样本概况表。<br>
-![image](https://github.com/1superman/model_report/raw/main/images/oot%E5%88%86%E7%AE%B1%E7%BB%9F%E8%AE%A1.png)
+![image](https://raw.githubusercontent.com/1superman/model_report/main/images/all_Lift.png)
 <br>
 b. 效果概况。<br>
 <br>
