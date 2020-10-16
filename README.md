@@ -13,11 +13,11 @@ c. ROC曲线。<br>
 <br>
 d. KS曲线。<br>
 
-![image](/images/train_KS.png)![image](/images/test_KS.png)![image](/images/oot_KS.png)![image](/images/all_KS.png)
+![image](/images/train%20KS.png)![image](/images/test%20KS.png)![image](/images/oot%20KS.png)![image](/images/all_KS.png)
 <br>
 e. lift曲线。<br>
 
-![image](/images/train_Lift.png)![image](/images/test_Lift.png)![image](/images/oot_Lift.png)![image](/images/all_Lift.png)
+![image](/images/train%20Lift.png)![image](/images/test%20Lift.png)![image](/images/oot%20Lift.png)![image](/images/all_Lift.png)
 <br>
 f. 等频分箱。<br>
 <br>
