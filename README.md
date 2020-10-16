@@ -4,7 +4,7 @@
 <br>
 <br>
 a. 样本概况表。<br>
-![image text](images/all_KS.png)
+![Image text](images/all_KS.png)
 
 <br>
 b. 效果概况。<br>
