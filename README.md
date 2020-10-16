@@ -4,7 +4,7 @@
 <br>
 <br>
 a. 样本概况表。<br>
-![image] (https://github.com/1superman/model_report/blob/main/images/ALL_TR_TE_OOT%20ROC.png)
+![iamge](https://github.com/1superman/model_report/blob/main/images/test评分分布.png)
 <br>
 b. 效果概况。<br>
 <br>
