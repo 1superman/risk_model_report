@@ -12,6 +12,7 @@ c. ROC曲线。<br>
 
 <br>
 d. KS曲线。<br>
+
 ![image](/images/all_KS.png)
 <br>
 e. lift曲线。<br>
