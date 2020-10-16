@@ -24,8 +24,12 @@ f. 等频分箱。<br>
 ![image](/images/train分箱统计.png)![image](/images/test分箱统计.png)![image](/images/oot分箱统计.png)
 <br>
 g. 分数分布。<br>
+
+![image](/images/train等宽分布.png)![image](/images/test等宽分布.png)![image](/images/oot等宽分布.png)
 <br>
 h. 累计分数分布。<br>
+
+![image](/images/向上累积统计.png)![image](/images/尾部向上累积统计.png)![image](/images/向下累积统计.png)![image](/images/尾部向下累积统计.png)
 <br>
 i. psi。<br>
 <br>
