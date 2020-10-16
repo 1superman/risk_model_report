@@ -29,7 +29,7 @@ g. 分数分布。<br>
 <br>
 h. 累计分数分布。<br>
 
-![image](/images/向上累积统计.png)![image](/images/尾部向上累积统计.png)![image](/images/向下累积统计.png)![image](/images/尾部向下累积统计.png)
+![image](/images/test向上累积统计.png)![image](/images/test尾部向上累积统计.png)![image](/images/test向下累积统计.png)![image](/images/test尾部向下累积统计.png)
 <br>
 i. psi。<br>
 <br>
