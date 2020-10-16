@@ -20,6 +20,8 @@ e. lift曲线。<br>
 ![image](/images/train%20Lift.png)![image](/images/test%20Lift.png)![image](/images/oot%20Lift.png)![image](/images/all_Lift.png)
 <br>
 f. 等频分箱。<br>
+
+![image](/images/train分箱统计.png)![image](/images/test分箱统计.png)![image](/images/oot分箱统计.png)
 <br>
 g. 分数分布。<br>
 <br>
