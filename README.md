@@ -1,0 +1,1 @@
+![avatar](C:\Users\61495\Desktop\report_code\model_report\data\statis\graph\idpdlold86_p_external\all分箱统计.png)
